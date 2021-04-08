@@ -1,0 +1,26 @@
+export const FETCH_PRODUCTS = "FETCH_PRODUCTS";
+export const ADD_PRODUCT = "add_product";
+export const ORDER_PRODUCTS_BY_PRICE = "ORDER_PRODUCTS_BY_PRICE";
+export const ADD_TO_CART = "ADD_TO_CART";
+export const REMOVE_FROM_CART = "REMOVE_FROM_CART";
+export const CREATE_ORDER = "CREATE_ORDER";
+export const CLEAR_ORDER = "CLEAR_ORDER";
+export const CLEAR_CART = "CLEAR_CART";
+export const FETCH_ORDERS = "FETCH_ORDERS";
+export const FETCH_SELLER ="FETCH_SELLER";
+export const SELLER_SINGUP ="SELLER_SINGUP";
+export const SELLER_ERROR = "SELLER_ERROR";
+export const FETCH_BUYER ="FETCH_BUYER";
+export const BUYER_SINGUP ="BUYER_SINGUP";
+export const BUYER_ERROR ="BUYER_ERROR";
+export const SELLERSINGIN_ERROR ="SELLERSINGIN_ERROR";
+export const SELLER_SINGIN ="SELLER_SINGIN" ;
+export const SELLERADDPRO_ERROR = "SELLERADDPRO_ERROR";
+export const FECH_SEELER_PRO = "FECH_SEELER_PRO";
+export const FECH_SEELER_PRO_ERROR ="FECH_SEELER_PRO_ERROR";
+export const BUEYR_SINGIN ="BUEYR_SINGIN";
+export const BUYERSINGIN_ERROR ="BUYERSINGIN_ERROR";
+export const CHECK ="CHECK";
+
+
+
